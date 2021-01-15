@@ -1,2 +1,2 @@
 # hehe
-<script>alert(1337)</script>
+<img onerror="alert(1337)" src="shit">
