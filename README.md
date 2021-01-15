@@ -1,2 +1,2 @@
 # hehe
-<img src="" onload="alert(1337)">
+<img src="javascript:alert(1337)" onload="alert(1337)">
